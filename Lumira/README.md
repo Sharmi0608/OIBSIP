@@ -154,7 +154,7 @@ py -3.12 main.py
 * What's the battery percentage
 * Open VS Code
 * Search for internships
-* Who is Narendra Modi
+* Who is Elon Musk
 * Take note
 * Thank you
 * Goodbye
