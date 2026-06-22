@@ -1,0 +1,10 @@
+SpeechRecognition
+pyttsx3
+wikipedia
+pywhatkit
+requests
+psutil
+pyautogui
+pyjokes
+spacy
+pyaudio
