@@ -238,6 +238,9 @@ while True:
         
     elif "good morning" in command:
         speak("Good morning Sharmi. Have a wonderful day.")
+
+    elif "good afternoon" in command:
+        speak("Good afternoon Sharmi. Hope You have an afternoon as lovely as you are.")
         
     elif "good evening" in command:
         speak("Good evening Sharmi. I hope you enjoy this evening to the fullest")
