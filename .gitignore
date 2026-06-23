@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+
+Lumira/notes.txt
+Lumira/screenshot.png
+
+.vscode/
+.env
