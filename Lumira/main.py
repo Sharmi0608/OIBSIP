@@ -112,7 +112,7 @@ waiting_for_city = False
 
 def get_weather(city):
     global waiting_for_city
-    api_key = "28dd88e299fb89999842fd65ab0ec9b2"
+    api_key = "YOUR_API_KEY"
 
     url = (
         f"https://api.openweathermap.org/data/2.5/weather"
