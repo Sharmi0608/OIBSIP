@@ -32,7 +32,7 @@ ctk.set_appearance_mode("light")
 ctk.set_default_color_theme("blue")
 
 root = ctk.CTk()
-root.title("WeatherVision Pro")
+root.title("WeatherVision")
 root.geometry("980x900")
 root.minsize(820, 760)
 
