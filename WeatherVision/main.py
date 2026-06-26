@@ -424,7 +424,7 @@ content.place(relx=0.5, rely=0.5, anchor="center", relwidth=0.96, relheight=0.96
 top_bar = ctk.CTkFrame(content, fg_color="transparent")
 top_bar.pack(fill="x", pady=(4, 6))
 
-ctk.CTkLabel(top_bar, text="WeatherVision Pro", font=("Segoe UI", 34, "bold")).pack(side="left", padx=18)
+ctk.CTkLabel(top_bar, text="WeatherVision", font=("Segoe UI", 34, "bold")).pack(side="left", padx=18)
 
 clock_label = ctk.CTkLabel(top_bar, text="", font=("Segoe UI", 18, "bold"))
 clock_label.pack(side="right", padx=18)
