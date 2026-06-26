@@ -1,4 +1,4 @@
-# 🌤️ WeatherVision Pro
+# 🌤️ WeatherVision
 
 A modern weather dashboard application built using Python and CustomTkinter that provides real-time weather information, forecasts, air quality, UV index, PDF reports, and interactive weather visualization.
 
@@ -6,7 +6,7 @@ A modern weather dashboard application built using Python and CustomTkinter that
 
 ## 📌 Overview
 
-WeatherVision Pro is a desktop weather application developed using Python. It allows users to search for any city and instantly view current weather conditions along with additional environmental information.
+WeatherVision is a desktop weather application developed using Python. It allows users to search for any city and instantly view current weather conditions along with additional environmental information.
 
 The application features a modern graphical user interface built with CustomTkinter and provides an interactive weather experience.
 
