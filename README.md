@@ -1,9 +1,5 @@
 # 🚀 Oasis Infobyte Python Programming Internship
 
-<p align="center">
-<img src="assets/oasis_banner.png" width="100%">
-</p>
-
 <h1 align="center">
 Python Programming Internship Projects
 </h1>
