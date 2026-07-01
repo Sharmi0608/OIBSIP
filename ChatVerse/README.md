@@ -1,9 +1,5 @@
 # 💬 ChatVerse
 
-<p align="center">
-  <img src="assets/logo.png" width="150">
-</p>
-
 <h1 align="center">ChatVerse</h1>
 
 <p align="center">
@@ -17,8 +13,6 @@ Advanced Secure Real-Time Chat Application built with Python, Tkinter, Socket Pr
 ![SQLite](https://img.shields.io/badge/SQLite-Database-blue?style=for-the-badge&logo=sqlite)
 ![Socket Programming](https://img.shields.io/badge/Socket-Programming-orange?style=for-the-badge)
 ![Cryptography](https://img.shields.io/badge/Fernet-AES_Encryption-red?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
 </p>
 
 ---
@@ -124,7 +118,6 @@ ChatVerse/
 │
 ├── README.md
 ├── requirements.txt
-├── LICENSE
 └── .gitignore
 ```
 
@@ -186,43 +179,11 @@ Open multiple clients to chat with different users.
 
 ---
 
-# 📷 Screenshots
-
-## Login
-
-> *(Add screenshot here)*
-
-```
-screenshots/login.png
-```
-
----
-
-## Registration
-
-> *(Add screenshot here)*
-
-```
-screenshots/register.png
-```
-
----
-
-## Chat Window
-
-> *(Add screenshot here)*
-
-```
-screenshots/chat.png
-```
-
----
-
 # 🎥 Demo
 
-Watch the project demonstration on LinkedIn or YouTube.
+Watch the project demonstration on LinkedIn.
 
-*(Add your video link here after uploading.)*
+www.linkedin.com/in/sharmilar08
 
 ---
 
